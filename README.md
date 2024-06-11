@@ -12,18 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=HelloWorld!&fontAlign=70&fontAlignY=40&color=gradient)
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi&nbsp;there!&fontAlign=80&fontAlignY=40&color=gradient)
 <div align="center">
   <h3>✨ Tech Stack ✨</h3>
   <div>
-    <p>📚 Frameworks</p>
+    <p><b>📚 Frameworks</b></p>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   </div>
   <br>
   <div>
-    <p>📋 Languages</p>
+    <p><b>📋 Languages</b></p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
   </div>
   <br>
   <div>
-    <p>💾 Databases</p>
+    <p><b>💾 Databases</b></p>
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   </div>
 </div>
