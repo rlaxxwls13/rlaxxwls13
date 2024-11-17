@@ -32,11 +32,13 @@ Here are some ideas to get you started:
   </div>
   <br>
   <div>
+    <!--
     <p><b>💾 Databases</b></p>
+    -->
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   </div>
 </div>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaxxwls13&show_icons=true&theme=radical)
--->
+
